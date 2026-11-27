@@ -114,7 +114,7 @@ Exemplo de execução da automação:
 
 ---
 
-Desenvolvido por Octávio Germano Hellwig.
+Desenvolvido por Octávio Germano Hellwig e João Robe.
 
 Análise e Desenvolvimento de Sistemas — UniSenac.
 
